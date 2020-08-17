@@ -1,0 +1,9 @@
+{
+    "name": "Auto-destruct-trees-on-resources",
+    "version": "0.1.0",
+    "title": "Auto Destruct trees on resources",
+    "description": "Marks trees that spawn on resouces for deconstruction.",
+    "author": "DaStone",
+    "factorio_version": "1.0",
+    "dependencies": []
+  }
